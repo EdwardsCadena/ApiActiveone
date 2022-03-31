@@ -1,0 +1,17 @@
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Active.Infrastructure.deps.json
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Active.Infrastructure.runtimeconfig.json
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Active.Infrastructure.dll
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Active.Infrastructure.pdb
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Activeone.Core.dll
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\bin\Debug\net6.0\Activeone.Core.pdb
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.AssemblyInfo.cs
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.csproj.CopyComplete
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.dll
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\refint\Active.Infrastructure.dll
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.pdb
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\Active.Infrastructure.genruntimeconfig.cache
+C:\Users\elect\Desktop\Activeone\Activeone.Infrastructure\obj\Debug\net6.0\ref\Active.Infrastructure.dll
